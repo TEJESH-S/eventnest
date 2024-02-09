@@ -1,5 +1,5 @@
-<h1 align="center">CS_546_C Final Project Group 9</h1>
-<h3 align="center">Bingzhen Li Charan Sundar Prajay Sachdev Neel Tejani</h3>
+<h1 align="center">Final Project Group 9</h1>
+<h3 align="center">ARUL JESHIN, PONNU ARASU, TEJESH S, VIGNESH C</h3>
 
 ## Implemented Core Features
 
