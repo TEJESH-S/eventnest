@@ -30,7 +30,7 @@
 
 ## Updated github link
 
--   [x] https://github.com/DanielWu1/Group-9-event-nest_
+-   [x] https://github.com/TEJESH-S/eventnest
 
 ## Packages
 
